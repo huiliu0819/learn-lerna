@@ -1,6 +1,6 @@
 {
   "name": "liu-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "hui-core": "^1.0.1"
+    "hui-core": "^1.0.2"
   },
   "gitHead": "0d1abe4cc43df769565e5a46ad5b8332d6dcbbe4"
 }
