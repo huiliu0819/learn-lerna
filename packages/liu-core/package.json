@@ -12,5 +12,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "hui-core": "^1.0.0"
-  }
+  },
+  "gitHead": "2ab6b6dff670b6b059708209c0f31c1eceac9a33"
 }
