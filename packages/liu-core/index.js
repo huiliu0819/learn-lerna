@@ -6,4 +6,4 @@ const getImg = () => axios.get(API)
 module.exports = getImg
 
 getImg().then(res => console.log(res.data.length))
-console.log(111)
+console.log(1112)
